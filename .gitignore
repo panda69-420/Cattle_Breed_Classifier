@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# model files (too large)
+*.h5
+
+# dataset (never upload this)
+dataset/
+cattle_dataset/
+
+# virtual env
+venv/
+.env
